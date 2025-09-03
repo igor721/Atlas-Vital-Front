@@ -11,3 +11,12 @@ O **Atlas Vital** é uma plataforma interativa voltada para a organização e vi
 ## Link do Backend
 https://github.com/igor721/Atlas-Vital-Back
 
+## Como iniciar a aplicação?
+
+Após clonar o repositório, basta baixar as dependencias com o comando
+
+  - npm install
+
+Após a instalção concluir rode o comando:
+
+  - npm start
